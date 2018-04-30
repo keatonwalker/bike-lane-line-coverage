@@ -1,8 +1,8 @@
 line-coverage
 =========
-Supports ArcGIS versions: 10.3.1, 10.4
+Supports ArcGIS versions: 10.3.1, 10.4, 10.5
 
-Functions to determine the possibly identical items in two sets of lines.
+Functions to determine potentially identical lines in two different datasets.
 
 ### Running the script
 - Set the Workspaces for temp data and outputs.
